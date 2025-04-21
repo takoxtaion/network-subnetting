@@ -60,6 +60,7 @@ This repository contains Python scripts for networking tasks related to IP addre
 - Output:
 
   ```bash
+  IP Address: 105.190.75.240/22
   Network Address: 105.190.72.0
   Broadcast Address: 105.190.75.255
   Subnet Mask: 255.255.252.0
