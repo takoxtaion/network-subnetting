@@ -47,6 +47,8 @@ This repository contains Python scripts for networking tasks related to IP addre
 - Output:
 
   ```bash
+  Network ID: 207.87.203.0
+  Class: C
   Subnet Mask: 255.255.255.192
   1st Available Host Address of Subnet 1: 207.87.203.65
   Max # of Hosts/Subnet: 62
